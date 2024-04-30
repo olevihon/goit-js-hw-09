@@ -1,0 +1,18 @@
+/* simplelightbox styles overwrite */
+
+.sl-overlay {
+  background-color: #2e2f42;
+}
+
+.sl-wrapper .sl-counter,
+.sl-wrapper .sl-close,
+.sl-wrapper .sl-navigation button {
+  color: #ffffff;
+}
+
+.sl-wrapper .sl-counter {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
